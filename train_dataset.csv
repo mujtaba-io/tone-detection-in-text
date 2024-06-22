@@ -1,0 +1,169 @@
+text,label
+"This is a great product, thank you!",polite
+"I'm having trouble logging in, can you help?",questioning
+"The customer service is terrible!",angry
+"Would you mind returning this item?",requesting
+"I am confused about the instructions.",questioning
+"This food is delicious!",polite
+"The wait time was way too long.",complaining
+"Can I get a discount on this?",requesting
+"I don't understand this concept.",questioning
+"Hello, how are you today?",polite
+"This is a complete waste of money!",angry
+"Do you have this in a different color?",requesting
+"I'm not sure if this is the right size.",questioning
+"Thank you for your time!",polite
+"I'm very disappointed with this service.",angry
+"Could you please repeat that?",requesting
+"I'm interested in learning more about this product.",questioning
+"Good morning!",polite
+"This traffic is unbelievable!",angry
+"May I ask you a question?",requesting
+"What is the capital of France?",questioning
+"Have a nice day!",polite
+"I'm frustrated with this situation.",angry
+"I would like to request a refund.",requesting
+"Why is this taking so long?",questioning
+"It was a pleasure doing business with you.",polite
+"This product is defective!",angry
+"Can you help me find this item?",requesting
+"How does this work?",questioning
+"I hope you have a wonderful day!",polite
+"I'm running late, can you reschedule?",requesting
+"What is the meaning of this word?",questioning
+"Thanks in advance for your help!",polite
+"This is absolutely unacceptable!",angry
+"I need to speak to a manager right away.",requesting
+"Could you clarify this for me?",questioning
+"You've been a great help, thank you!",polite
+"I'm canceling my order.",angry
+"I would like to return this item for a full refund.",requesting
+"What are the business hours for this location?",questioning
+"We appreciate your business!",polite
+"This is outrageous!",angry
+"I would be grateful if you could help me.",requesting
+"How can I get in touch with customer service?",questioning
+"Best regards,",polite
+"I'm not satisfied with this outcome.",angry
+"Please send me the details as soon as possible.",requesting
+"What are your thoughts on this matter?",questioning
+"Have a wonderful evening!",polite
+"I'm really impressed with your service!",polite
+"This needs to be fixed immediately.",angry
+"Could you provide more information on this?",questioning
+"Good afternoon!",polite
+"I demand a full refund for this product.",angry
+"Could you assist me with this issue?",requesting
+"I'm not sure if I understand this correctly.",questioning
+"Thank you for your assistance!",polite
+"I'm furious about this situation!",angry
+"Can you please check the status of my order?",requesting
+"Could you explain how this works?",questioning
+"I appreciate your help with this matter.",polite
+"I'm deeply disappointed in your service.",angry
+"Is there anything else you can do for me?",requesting
+"I'm wondering if you could help me with this problem.",questioning
+"Thanks a lot for your help!",polite
+"This is not what I expected at all.",angry
+"Could you please take care of this for me?",requesting
+"Can you clarify what you mean by that?",questioning
+"Good evening!",polite
+"I'm absolutely thrilled with your service!",polite
+"I'm fed up with this situation.",angry
+"Please let me know when this will be resolved.",requesting
+"Would you mind explaining this in more detail?",questioning
+"Thank you so much for your support!",polite
+"I'm appalled by the lack of professionalism.",angry
+"Could you please send me more information?",requesting
+"Can you explain the process for me?",questioning
+"Hello there, how are you doing today?",polite
+"I'm really frustrated with your customer service.",angry
+"Could you assist me in resolving this issue?",requesting
+"I'm not sure if this is the right approach.",questioning
+"I appreciate your prompt response!",polite
+"I'm utterly dissatisfied with your product.",angry
+"Is there anything else you need from me?",requesting
+"Can you tell me when this will be available?",questioning
+"Thank you for your cooperation!",polite
+"I'm extremely annoyed by this situation.",angry
+"Please send me the details as soon as possible.",requesting
+"Can you clarify what the next steps are?",questioning
+"Goodbye and take care!",polite
+"I demand a refund for this faulty item.",angry
+"Could you help me with this issue, please?",requesting
+"I'm not sure I understand what you're saying.",questioning
+"Thanks for your help with this matter!",polite
+"I'm furious about the poor service I received.",angry
+"Can you please look into this matter for me?",requesting
+"Could you explain why this happened?",questioning
+"Hi there, hope you're having a good day!",polite
+"I'm really pleased with the outcome of this project.",polite
+"I'm absolutely livid about this situation.",angry
+"Please assist me with resolving this issue.",requesting
+"Can you explain this policy to me?",questioning
+"Thank you for your quick response!",polite
+"I'm very upset about the way this was handled.",angry
+"Could you please send me more details?",requesting
+"Can you clarify the next steps for me?",questioning
+"Goodbye and have a great day!",polite
+"I'm not satisfied with this resolution.",angry
+"Could you help me understand this better?",requesting
+"I'm not sure what you mean by that.",questioning
+"Thanks for your prompt assistance!",polite
+"I'm extremely disappointed with your service.",angry
+"Can you please look into this issue for me?",requesting
+"Could you explain the process to me, please?",questioning
+"Hello, hope you're having a wonderful day!",polite
+"I'm really happy with the service I received.",polite
+"I'm furious about the delay in delivery.",angry
+"Please help me resolve this issue quickly.",requesting
+"Can you clarify your expectations for this project?",questioning
+"Thank you for your understanding and cooperation!",polite
+"I'm very dissatisfied with the product I received.",angry
+"Could you please provide more details on this?",requesting
+"Can you explain why this decision was made?",questioning
+"Hi, hope you're having a good day!",polite
+"I'm delighted with the level of service provided.",polite
+"I'm absolutely outraged by this situation.",angry
+"Please assist me in finding a solution to this problem.",requesting
+"Can you explain this in simpler terms?",questioning
+"Thank you for your patience and assistance!",polite
+"I'm really upset about the lack of communication.",angry
+"Could you please send me an update on this?",requesting
+"Can you clarify what you mean by that statement?",questioning
+"Hello, hope you're doing well!",polite
+"I'm very pleased with the outcome of this project.",polite
+"I'm furious about the mistake in my order.",angry
+"Please help me resolve this issue as soon as possible.",requesting
+"Could you explain your reasoning behind this decision?",questioning
+"Thank you for your prompt attention to this matter!",polite
+"I'm really frustrated with the service I received.",angry
+"Can you please provide more information on this topic?",requesting
+"Can you explain how this process works?",questioning
+"Hi there, hope you're having a great day!",polite
+"I'm thrilled with the progress we're making.",polite
+"I'm absolutely disgusted by this behavior.",angry
+"Please assist me with resolving this matter.",requesting
+"Can you clarify your expectations for this assignment?",questioning
+"Thank you for your assistance and support!",polite
+"I'm deeply upset about the lack of professionalism.",angry
+"Could you please send me the latest version of this document?",requesting
+"Can you explain the steps to me, please?",questioning
+"Good morning, hope you have a wonderful day!",polite
+"I'm impressed with the efficiency of your service.",polite
+"I'm furious about the delay in response.",angry
+"Please help me understand the reasoning behind this decision.",requesting
+"Can you explain why this issue occurred?",questioning
+"Thank you for your quick response and assistance!",polite
+"I'm really disappointed with the service provided.",angry
+"Can you please look into this matter further?",requesting
+"Could you clarify the details of this agreement?",questioning
+"Hi, hope you're having a fantastic day!",polite
+"I'm delighted with the results of our collaboration.",polite
+"I'm absolutely outraged by this behavior.",angry
+"Please assist me in resolving this issue promptly.",requesting
+"Can you explain what happened in this situation?",questioning
+"Thank you for your prompt assistance and cooperation!",polite
+"I'm really frustrated with the lack of communication.",angry
+"Could you please send me the necessary information?",requesting
+"Can you clarify the process for me, please?",questioning
